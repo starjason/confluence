@@ -1,4 +1,5 @@
-FROM cptactionhank/atlassian-confluence:6.11.0
+FROM cptactionhank/atlassian-confluence:6.13.0
+# 6.11.0
 # 6.8.1
 # 6.3.4
 # COPY atlassian-extras-decoder-v2-3.2.jar ${CONF_INSTALL}/confluence/WEB-INF/lib/atlassian-extras-decoder-v2-3.2.jar
